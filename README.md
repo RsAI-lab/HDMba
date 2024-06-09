@@ -29,7 +29,12 @@ Haze contamination in hyperspectral remote sensing images (HSI) can lead to spat
 
 `main.py`
 
+## Datasets
 
-## Acknowledgement :heart:
+HyperDehazing: It will be available at https://github.com/RsAI-lab/HyperDehazing
+HDD: Available from ([Paper](https://ieeexplore.ieee.org/document/9511329))
+
+
+## Acknowledgement
 This project is based on FFANet ([code](https://github.com/zhilin007/FFA-Net)). Thanks for their wonderful works.
 
