@@ -24,15 +24,24 @@ Haze contamination in hyperspectral remote sensing images (HSI) can lead to spat
 </div>
 
 
-
-## Train
-
-`main.py`
-
 ## Datasets
 
 HyperDehazing: It will be available at https://github.com/RsAI-lab/HyperDehazing
+
 HDD: Available from ([Paper](https://ieeexplore.ieee.org/document/9511329))
+
+
+## Other dehazing methods
+
+SG-Net:([Code](https://github.com/SZU-AdvTech-2022/158-A-Spectral-Grouping-based-Deep-Learning-Model-for-Haze-Removal-of-Hyperspectral-Images))
+
+AACNet: ([Code](http://www.jiasen.tech/papers/))
+
+DehazeFormer:([Code](https://github.com/IDKiro/DehazeFormer))
+
+AIDFormer:([Code](https://github.com/AshutoshKulkarni4998/AIDTransformer))
+
+RSDformer:([Code](https://github.com/MingTian99/RSDformer))
 
 
 ## Acknowledgement
