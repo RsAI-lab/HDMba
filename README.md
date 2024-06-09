@@ -15,7 +15,7 @@ Haze contamination in hyperspectral remote sensing images (HSI) can lead to spat
 
 
 <div align="center">
-<img src="performance.PNG" />
+<img src="performance.PNG" height="200" width="200"/>
 </div>
 
 
